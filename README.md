@@ -33,3 +33,9 @@ protected function schedule(Schedule $schedule)
 
 *** only database backup command:
 -> php artisan backup:run --only-db
+
+
+reference video:
+1. https://www.youtube.com/watch?v=OPDkQ3V4Goo
+2. https://www.youtube.com/watch?v=6kxXkrlRuJU&list=PL41H_cEq1COgIJB-5WSGS-rhXajQfws7f&index=5&ab_channel=QiroLab
+
